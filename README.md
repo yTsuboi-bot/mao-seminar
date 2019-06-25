@@ -5,7 +5,7 @@ https://elmas3.github.io/mao-seminar/
 
 # メンバー
 真央教授
-エルます
+エルマス
 わかば
 
 # ディレクトリ構成
